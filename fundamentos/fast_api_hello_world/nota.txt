@@ -1,0 +1,3 @@
+iniciar el servidor en consola
+
+uvicorn main:app --reload
